@@ -4,9 +4,11 @@ This folder contains files for the initial version of ChemToolKit, which was int
 
 
 To use this version of the software, you must install the following software:
-* ![MGL Tools](https://ccsb.scripps.edu/mgltools/)
-* ![Autodock Vina](https://vina.scripps.edu/)
-* ![Pymol](https://pymol.org/2/)
+* [MGL Tools](https://ccsb.scripps.edu/mgltools/)
+* [Autodock Vina](https://vina.scripps.edu/)
+* [Pymol](https://pymol.org/2/)
 * Python 3.9 or newer
 
 The Python packages needed can be found in the requirements.txt file and can be installed using pip install -r requirements.txt
+
+A Tutorial for how to use this software can be found [HERE](https://www.youtube.com/playlist?list=PLDhA2gnCmRc-xUvundmGEJ7rMWHUvrYzY) .
